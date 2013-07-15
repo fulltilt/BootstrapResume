@@ -82,6 +82,10 @@ p {
 	color: #ccccff;
 }
 
+h2 {
+	font-style: italic;
+}
+
 h3 span { 
 	font-size: 16px; 
 	margin: 0 0 6px 0; 
@@ -89,14 +93,7 @@ h3 span {
 	font-style: italic;
 	font-family: Georgia, Serif; 
 }
-/*
-h3 span { 
-	position: absolute; 
-	bottom: 0; 
-	right: 0; 
-	font-style: italic; 
-	font-family: Georgia, Serif; 
-	font-size: 16px; 
-	color: #999; 
-	font-weight: normal; 
-}*/
+
+.f { color: black; text-align: center; }
+.f a { color: black; border-bottom: 1px dotted black; }
+.f a:hover { text-decoration: none; }
