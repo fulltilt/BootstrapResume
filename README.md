@@ -1,4 +1,8 @@
-BootstrapResume
-===============
+Bootstrap Resume
+================
+A Bootstrap Resume theme built for http://davedoria.herokuapp.com
 
-Online resume using Twitter Bootstrap for responsive design
+Resources
+================
+-Twitter Bootstrap  
+-jQuery
